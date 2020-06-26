@@ -1,0 +1,19 @@
+{
+  "name": "corvid-unit-tests",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest  __tests__ --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.10.1",
+    "@babel/preset-env": "^7.10.3",
+    "babel": "^6.23.0",
+    "babel-jest": "^26.1.0",
+    "babel-preset-env": "^1.7.0",
+    "corvid-cli": "^0.2.10-alpha.0",
+    "corvid-types": "^0.1.100",
+    "jest": "^26.1.0"
+  }
+}

@@ -1,0 +1,8 @@
+// 😔
+const buildLargeCollaider = () => {
+    return 'O';
+};
+// it will not work
+module.exports = {
+    buildLargeCollaider,
+};
